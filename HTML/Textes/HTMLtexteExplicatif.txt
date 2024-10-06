@@ -1,0 +1,179 @@
+-------Index.html_Collection (quand on clique sur une carte) :-------
+
+Texte explicatif des lors des champions et des champions en eux-mêmes :
+
+Darius : Darius est un puissant et impitoyable conquérant, autrefois général d'une armée redoutée, aujourd'hui seigneur d'une vaste contrée qu'il a forgée dans le feu et le sang. Ses exploits sur le champ de bataille sont légendaires, notamment sa capacité à renverser des empires en un éclair avec une stratégie implacable et une force brute. Sa soif de pouvoir est insatiable, et il est animé par une vision de domination totale, où il écrase impitoyablement tous ceux qui se dressent contre lui. Malgré sa réputation de tyran, Darius inspire une loyauté féroce chez ses soldats, qui voient en lui un chef invincible.
+
+
+Azir : Azir, autrefois empereur d'un vaste royaume désertique, fut trahi au sommet de sa gloire, condamnant son empire à l'oubli. Jadis mortel, il cherchait à s'élever au rang de dieu pour diriger un peuple prospère, mais sa vanité précipita sa chute. Ressuscité des siècles plus tard par des forces mystérieuses, Azir renaît en tant qu'avatar divin du soleil et du sable, déterminé à restaurer sa cité perdue de Shurima et à retrouver son trône. Maître des sables, il manipule les dunes à sa guise, érigeant des armées de soldats d'arène, symboles de sa volonté inébranlable de retrouver la grandeur perdue de son empire.
+
+
+Tahm Kench : Tahm Kench est un démon des rivières, un être aux allures de poisson-chat gigantesque, capable de se faufiler dans les eaux sombres ou d'apparaître dans des lieux inattendus. Connu sous de nombreux noms, comme "Le Roi des Rivières", il incarne la voracité et la tentation. Avec un sourire affable et une langue aussi acérée que ses paroles, il offre aux âmes en quête de richesse, de pouvoir ou de vengeance ce qu'elles désirent le plus, mais toujours à un prix terrible. Il se nourrit de la misère humaine, savourant les désirs insatiables et les regrets amers de ceux qu'il trompe. Pour lui, la souffrance et la dépendance sont des festins délicieux, et plus une personne s'égare dans ses promesses, plus elle tombe dans les abysses insondables de sa faim éternelle.
+
+
+Volibear : Volibear est une divinité ancestrale et sauvage, incarnation vivante de la fureur de la nature et du tonnerre. Vénéré par les tribus des Freljord, il est le Dieu de la Tempête, symbole de destruction brutale et de renouveau. Contrairement aux dieux modernes qui prônent l'ordre et la civilisation, Volibear méprise toute forme de contrôle ou de structure imposée. Il incarne les forces chaotiques et primordiales du monde, apportant les tempêtes et la guerre pour rappeler à tous que la nature ne peut jamais être domptée. Massif et imposant, couvert de cicatrices et de runes anciennes, Volibear se dresse contre ceux qui osent défier l'ordre sauvage, prêt à écraser tout ce qui entrave la liberté originelle du monde.
+
+
+Jayce : Jayce est un brillant inventeur et défenseur de Piltover, la cité du progrès. Connu pour son intelligence exceptionnelle et son dévouement à la science, il a juré de protéger sa ville et ses idéaux en utilisant à la fois son esprit et son marteau à impulsion, une arme technologique qu'il a lui-même conçue. Bien qu'il soit salué comme un héros et un symbole d'innovation, Jayce est parfois arrogant, convaincu que la technologie est la clé de l'avenir. Il combat ceux qui cherchent à exploiter la magie ou à nuire à Piltover, croyant fermement que la science doit éclairer l'humanité. Ses convictions et sa volonté inébranlable font de lui un farouche défenseur de l'ordre, bien qu'il soit parfois tiraillé entre la protection de son peuple et son ambition personnelle d'être à la hauteur de ses idéaux.
+
+
+Garen : Garen est un noble guerrier et l'un des champions les plus dévoués de Demacia, une nation qui valorise l'ordre, la justice et la lumière. Issu de la prestigieuse Maison Crownguard, il est le commandant des Dauntless Vanguard, une élite militaire qui protège le royaume des menaces internes et externes. Symbole du courage et de l'honneur, Garen est un combattant intrépide, portant une armure lourde et brandissant une épée massive avec laquelle il exécute la justice implacablement.
+
+Loyal envers son pays et ses idéaux, il incarne la vertu de Demacia et lutte pour éradiquer toute forme de magie qu'il considère comme une menace pour la stabilité. Pourtant, il est confronté à un dilemme personnel : son propre frère, Lux, est une mage. Malgré ses doutes intérieurs, Garen reste déterminé à défendre son peuple, convaincu que la justice triomphera toujours.
+
+
+Warwick : Warwick est une créature monstrueuse des bas-fonds de Zaun, autrefois un homme ordinaire transformé par d'horribles expérimentations chimiques et mécaniques. Jadis un criminel impitoyable, il a été capturé et modifié par le scientifique fou Singed, qui lui a implanté des systèmes alchimiques et l'a infusé avec des toxines pour éveiller ses instincts de tueur. Désormais, Warwick est un hybride entre l’homme et la bête, un prédateur implacable qui chasse ceux qui se cachent dans les ruelles sombres.
+
+Ses souvenirs d'une vie antérieure sont flous, mais il est hanté par des éclairs de son passé, notamment les crimes qu'il a commis. Il tente de les étouffer avec sa soif de sang. Quand il sent l'odeur du sang, Warwick perd tout contrôle, devenant une machine de mort guidée uniquement par son instinct animal. Pourtant, une part de son humanité subsiste en lui, luttant contre la rage et cherchant désespérément à comprendre qui il était avant d'être le monstre qu'il est devenu.
+
+
+Zed : Zed est le maître des ombres, un assassin redouté et impitoyable, fondateur de l'Ordre de l'Ombre à Ionia. Jadis un élève brillant du Kinkou, un ordre prônant l'équilibre spirituel, Zed s'est tourné vers la voie interdite des ombres pour obtenir plus de pouvoir. Après avoir découvert une ancienne boîte contenant une sombre magie, il embrassa cette force pour renforcer ses techniques, croyant que seule une puissance absolue pourrait protéger Ionia contre ses ennemis.
+
+Sa soif de pouvoir l'a poussé à défier son maître, Shen, et à massacrer ceux qui refusaient de suivre sa vision radicale. Zed a formé son propre ordre, recrutant ceux qui, comme lui, étaient prêts à utiliser des méthodes plus brutales pour défendre leur terre. Maître dans l'art de manipuler les ombres, Zed se déplace silencieusement et frappe avec une précision létale, laissant peu de chances à ses adversaires. Malgré son apparente froideur, il porte en lui une lutte intérieure, cherchant à prouver que son chemin, aussi sombre soit-il, est nécessaire pour protéger ce qu'il aime.
+
+
+Diana : Diana est l'incarnation vivante du pouvoir de la lune, une guerrière fanatique et une membre de l'Ordre des Lunari, un culte ancien et oublié dans les terres de Targon. Née dans un monde dominé par les Solari, adorateurs du soleil, Diana a toujours ressenti une connexion étrange avec la lune, ce qui l'a isolée des autres et l'a rendue méfiante envers les croyances de son peuple. Après avoir découvert une ancienne armure et une lame imprégnées de la magie de la lune, elle a été investie d'un pouvoir céleste, devenant l'Avatar de la lune.
+
+Diana, convaincue que la vérité de la lune doit être révélée, a défié les Solari, cherchant à restaurer l'équilibre entre la lumière du soleil et les ténèbres de la nuit. Sa quête a fait d'elle une paria, et elle lutte désormais contre ses anciens alliés, armée de la puissance brute du clair de lune et de son fervent désir de vérité. Solitaire et farouche, Diana est une figure tragique, à la fois illuminée par la gloire de la lune et déchirée par son isolement, prête à tout pour que les Lunari soient de nouveau reconnus.
+
+
+Rengar : Rengar est un chasseur féroce et agile, originaire de la jungle de Kumungu. Ce félin humanoïde, membre de la tribu des Vastaya, est connu pour son instinct primal et son obsession pour la chasse. Avec ses réflexes surhumains et sa capacité à se fondre dans son environnement, Rengar traque ses proies avec une précision mortelle, recherchant sans relâche les défis les plus redoutables. 
+
+Sa rivalité avec un autre chasseur légendaire, Kha'Zix, l'a poussé à repousser ses limites, le motivant à devenir le plus grand prédateur. Rengar arbore des trophées de ses chasses passées, comme des crânes et des griffes, qui témoignent de son expérience et de sa compétence. Bien qu'il soit un guerrier redoutable, il est aussi un fervent amateur de défis, cherchant l'adrénaline du combat et la satisfaction d'un chasseur victorieux. À travers ses aventures, Rengar incarne la nature sauvage et indomptée, vivant selon un code d'honneur strict qui régit sa vie de chasseur.
+
+
+Thresh : Thresh est un être sinistre et redouté, connu sous le nom de "la Lanterne de la Mort". Anciennement un bourreau de la ville de Bilgewater, il a été obsédé par l'idée de capturer les âmes de ceux qu'il a tués, les enfermant dans des lanternes pour les tourmenter éternellement. Maître des chaînes et manipulateur des ombres, Thresh utilise sa connaissance de la magie noire pour infliger des souffrances psychologiques à ses victimes, les attirant dans son monde ténébreux.
+
+Son apparence spectrale, avec sa cape flottante et sa lanterne emblématique, évoque la peur chez tous ceux qui croisent son chemin. Thresh ne fait pas que collecter des âmes ; il se nourrit de la douleur et des désespoirs des autres, transformant chaque capture en un nouveau jeu cruel. En tant qu'entité liée à l'ombre, il est à la fois un prisonnier et un geôlier, enfermé dans sa propre création. Pour lui, chaque âme qu'il capture est un ajout à sa collection macabre, et il se réjouit de jouer avec ses proies avant de les plonger dans les ténèbres éternelles.
+
+
+
+Explication des lores :
+
+Noxus : Noxus est une puissante nation militariste dans l'univers de *League of Legends*, célèbre pour son ambition, sa force et son pragmatisme. Fondée sur les principes de la conquête et de l'expansion, Noxus est une société qui valorise la force, l'honneur et la détermination. Ses habitants croient fermement que la force et la compétence déterminent le statut social, et les individus de toutes origines peuvent gravir les échelons par leurs exploits.
+
+La capitale, également nommée Noxus, est un centre d'activité militaire, d'ingéniosité et de commerce, où la culture du combat et de la domination est omniprésente. L'armée noxienne est redoutée, composée de soldats entraînés, de mages puissants et de guerriers issus de diverses races et cultures, tous unis par l'idéal de la grandeur. 
+
+Cependant, cette quête de pouvoir et de suprématie a un coût, car Noxus est également synonyme de trahison, de manipulation et de rivalités internes. Les nobles et les chefs militaires se livrent à des luttes de pouvoir, cherchant à s'imposer les uns sur les autres tout en maintenant l'image d'une nation unie. À travers ses conquêtes et ses alliances, Noxus continue d'étendre son influence, aspirant à devenir l'empire dominant de Runeterra.
+
+
+Shurima : Shurima est un vaste désert ancien et une région mythique de Runeterra, imprégnée d'une histoire riche et complexe. Jadis, Shurima était le foyer d'un grand empire, régné par des pharaons puissants qui vénéraient des dieux solaires et maîtrisaient une magie ancienne. La capitale, les pyramides majestueuses et les monuments emblématiques témoignent de la grandeur passée de ce royaume, où la culture et l'architecture atteignaient des sommets inégalés.
+
+Cependant, l'orgueil des dirigeants shurimans a conduit à leur chute. Les ambitions démesurées de l'empereur Azir, qui chercha à s'élever au rang de dieu, ont provoqué des événements cataclysmiques, entraînant la destruction de l'empire et la mort de ses habitants. Après cette tragédie, Shurima est tombée dans l'oubli, ses cités ensevelies sous les sables du temps.
+
+Aujourd'hui, Shurima est peuplée de tribus nomades et de créatures anciennes, tandis que les vestiges de son passé continuent de susciter l'intérêt des explorateurs et des aventuriers. La renaissance d'Azir en tant que divinité a ravivé l'espoir d'un nouveau règne, alors que les secrets oubliés de Shurima et la magie des anciens commencent à émerger à la surface, attirant ceux qui recherchent la puissance et le savoir.
+
+
+Bilgewater : Bilgewater est une ville portuaire animée et tumultueuse située sur les côtes de l'océan, réputée pour son ambiance chaotique et sa culture de la piraterie. Autrefois un simple village de pêcheurs, Bilgewater s'est transformée en un carrefour commercial vibrant, attirant une multitude de personnes, allant des marins et aventuriers aux marchands peu scrupuleux et aux pirates audacieux. La ville est un mélange de cultures, où les influences de divers peuples se mêlent, créant une atmosphère unique, mais aussi dangereuse.
+
+Dominée par des factions rivales et des chefs de bande, Bilgewater est le théâtre de luttes de pouvoir incessantes. Les pirates, comme la célèbre Miss Fortune, et les mercenaires, tels que Graves, se battent pour le contrôle des routes commerciales et des ressources de la mer. Cependant, la ville est également menacée par des créatures marines, comme le redoutable Kraken, et des entités occultes qui s'éveillent dans les profondeurs.
+
+Malgré ses dangers, Bilgewater est un lieu de possibilité pour ceux qui cherchent la fortune ou l'aventure. Les tavernes grouillent de rumeurs et de contes de trésors perdus, tandis que les docks accueillent des navires de toutes sortes. La ville incarne la liberté et l'indépendance, mais aussi la brutalité et la trahison, attirant ceux qui osent défier les lois de la mer et de la société.
+
+
+Freljord : Le Freljord est une région froide et sauvage de Runeterra, connue pour ses paysages glacés, ses montagnes imposantes et ses forêts enneigées. C’est un terre de tribus nomades, de guerriers redoutables et de mystères anciens, où la survie est un combat constant contre les éléments et les menaces d'autres factions. Le Freljord est dominé par des clans rivaux, notamment les Ashen, les Frostguard et les Tribe de Sejuani, chacun luttant pour le pouvoir, le contrôle des ressources et la survie.
+
+La reine Ashe, leader des Ashen, aspire à unir les tribus sous une bannière commune, prônant l'harmonie et la paix. Cependant, cette vision est constamment mise à l'épreuve par d'autres factions, notamment Sejuani, la chef des Winter's Claw, qui cherche à revendiquer la force brute et l'anarchie comme moyen de domination. Au milieu de ces conflits, le mystère des anciennes puissances, comme Lissandra, la sorcière de la glace, plane sur le Freljord, ajoutant une couche de complexité à la lutte pour le contrôle.
+
+La culture du Freljord est profondément enracinée dans la tradition et le respect des ancêtres. Les rites et les croyances des tribus sont souvent liés à la nature et aux esprits, tandis que la magie de la glace joue un rôle important dans leur vie quotidienne. Dans cette terre aride et magnifique, le froid ne représente pas seulement une condition climatique, mais aussi une épreuve qui forge le caractère des habitants, les rendant aussi résilients que le paysage qui les entoure.
+
+
+Piltover : Piltover est une cité-État prospère et innovante, souvent décrite comme le berceau de la technologie avancée et de l'ingéniosité. Située au-dessus de la ville souterraine de Zaun, Piltover est un carrefour d'idées, de commerce et d'avancées scientifiques. Sa population est composée d'inventeurs, d'ingénieurs, de marchands et d'intellectuels, qui s'efforcent de repousser les limites de la science et de la magie.
+
+Connue pour ses universités prestigieuses, comme l'Institut de la technologie de Piltover, la ville attire des esprits brillants de tout Runeterra. Les innovations telles que le cristal de mana et les dispositifs hextech sont des témoignages de l'esprit pionnier de Piltover, mais elles ont également des conséquences, exacerbant les inégalités entre les classes sociales et alimentant des tensions avec la population de Zaun.
+
+Piltover est régie par un système politique complexe, où les nobles et les guildes ont une influence considérable sur les affaires de la ville. Les tensions entre les différentes factions, notamment les membres de la famille noble des Laurent et les guildes commerciales, créent un climat politique instable. Cependant, la ville est également un symbole d'espoir et de progrès, où l'innovation est célébrée et où les gens croient fermement que la science peut améliorer la vie de tous.
+
+Malgré ses avancées, Piltover n'est pas exempte de problèmes. Les conflits avec Zaun, qui souffre des effets secondaires de la technologie de Piltover, ainsi que les intrigues politiques internes, créent un environnement tumultueux. Néanmoins, la ville continue d'évoluer, attirant les rêveurs et les visionnaires qui cherchent à façonner l'avenir à travers la science et l'ingéniosité.
+
+
+Demacia : Demacia est un royaume puissant et respecté dans l'univers de *League of Legends*, connu pour son engagement envers la justice, l'honneur et la vertu. Fondée sur des principes chevaleresques, cette nation valorise la loyauté, le courage et la défense des opprimés. Ses habitants, souvent appelés "Demaciens", sont fiers de leur héritage et de leur identité, considérant leur royaume comme un bastion de lumière dans un monde souvent plongé dans les ténèbres.
+
+La société démacaienne est stratifiée, avec une forte hiérarchie militaire et des nobles influents qui gouvernent. Le roi, souvent assisté par des figures héroïques comme Garen et Jarvan IV, est le symbole de la force et de l'intégrité de la nation. Demacia est également célèbre pour ses ordres de chevalerie, tels que les Dauntless Vanguard, qui se battent pour protéger les citoyens et défendre le royaume contre ses ennemis, notamment les forces de Noxus et les mages, que la nation craint et méprise.
+
+La magie, bien que présente dans le monde de Runeterra, est souvent mal vue à Demacia, en raison des dégâts qu'elle a causés dans le passé. Cela a conduit à des tensions internes, notamment avec des personnages comme Lux, qui, en tant que mage, se trouve souvent en conflit avec les idéaux de sa patrie.
+
+Les paysages de Demacia sont enchanteurs, avec des prairies verdoyantes, des forêts luxuriantes et des châteaux majestueux. La nation se présente comme un idéal de la bravoure et de la détermination, mais elle est également confrontée à des défis internes et externes, faisant face à des dilemmes moraux et des luttes de pouvoir qui mettent à l'épreuve ses valeurs fondamentales.
+
+
+Zaun : Zaun est une métropole souterraine de Runeterra, souvent décrite comme l'antithèse de la prospérité de Piltover, située juste en dessous. Cette ville industrielle est marquée par la pollution, la pauvreté et les inégalités sociales, où les citoyens luttent pour survivre dans un environnement souvent hostile. Malgré cela, Zaun est également un lieu d'innovation et de créativité, où des inventeurs, des alchimistes et des scientifiques s'efforcent de tirer parti des ressources et des technologies disponibles.
+
+Le cœur de Zaun est animé par des activités illégales, des laboratoires clandestins et des marchés noirs, attirant ceux qui cherchent à échapper à l'autorité de Piltover ou à profiter des opportunités qu'offre la ville. Les factions rivales, telles que les médecins, les alchimistes et les gangs, se disputent le contrôle des territoires et des ressources. Ces rivalités ajoutent à l'atmosphère chaotique de la ville, où la loyauté est souvent fluctuante et les alliances se forment et se défont rapidement.
+
+Les avancées technologiques, souvent réalisées sans éthique, comme l'utilisation des cristaux hextech, ont conduit à des créations étonnantes, mais aussi à des dangers pour les habitants. Les effets secondaires de ces expérimentations se manifestent sous forme de mutations et d'effets néfastes sur l'environnement, créant des créatures étranges et menaçantes qui rôdent dans les ombres.
+
+Zaun est également le foyer de nombreux personnages emblématiques, comme Ekko, un jeune inventeur talentueux, et Jinx, une criminelle flamboyante qui incarne le chaos et l'anarchie de la ville. Malgré ses nombreux problèmes, Zaun est un symbole de résilience et de créativité, où ceux qui osent défier les normes établies peuvent trouver leur propre voie et changer le cours de leur destin.
+
+
+Ionia : Ionia est une région mystique et spirituelle de Runeterra, connue pour sa beauté naturelle, ses paysages luxuriants et son riche héritage culturel. C'est une terre où la magie et la nature sont profondément interconnectées, et où les traditions ancestrales sont vénérées. Ionia est habitée par diverses factions, dont les Kinkou, qui sont les gardiens de l'équilibre spirituel, et les Vastaya, une race de créatures humanoïdes qui sont en harmonie avec la nature.
+
+La philosophie ionienne met l'accent sur l'harmonie, l'équilibre et la compréhension des forces naturelles. Cependant, cette paix fragile a été menacée par l'invasion de Noxus, qui a provoqué des conflits et des souffrances dans la région. Des champions comme Shen, le maître des ombres, et Karma, la championne de la lumière, se battent pour protéger Ionia et restaurer l'équilibre entre les forces du bien et du mal.
+
+La culture d'Ionia est riche en traditions artistiques, allant de la danse à la poésie, et elle est imprégnée de philosophies orientales. Les habitants pratiquent souvent des arts martiaux et des formes de magie ancestrale, cherchant à canaliser les énergies de la nature pour atteindre une meilleure compréhension de soi et du monde qui les entoure.
+
+Malgré la menace constante d'invasions et de conflits, Ionia reste un symbole de résilience et d'harmonie, où la sagesse ancienne et la force spirituelle se rejoignent pour défendre la terre et ses habitants. Les paysages enchanteurs, les temples sacrés et les montagnes majestueuses témoignent de la profondeur et de la richesse de cette région unique, tout en cachant des secrets qui attendent d'être découverts.
+
+
+Targon : Targon est une région élevée et mystique de Runeterra, célèbre pour ses montagnes majestueuses, ses cieux étoilés et sa connexion profonde avec les forces cosmiques. Cette région est dominée par le Mont Targon, une montagne sacrée qui s'élève au-dessus des nuages et est considérée comme un lieu de pouvoir spirituel et mystique. Les habitants de Targon, appelés les Targonites, vénèrent les astres et croient que les constellations influencent leur destin.
+
+Les Targonites sont souvent des guerriers, des mages ou des sages, et ils pratiquent une forme de magie liée aux étoiles et à la lune. Parmi eux se trouvent des champions notables tels que Leona, la guerrière du soleil, et Diana, la guerrière de la lune, qui incarnent respectivement les forces solaires et lunaires. Ce dualisme entre la lumière et l'obscurité est central dans la culture targonienne, et les conflits entre ces forces ont des répercussions sur l'équilibre du monde.
+
+Targon est également le foyer des Ascendants, des êtres qui ont transcendé leur mortalité pour atteindre un état supérieur d'existence. Ces puissantes entités sont souvent perçues comme des protecteurs ou des guides spirituels pour les habitants de la région. Cependant, leur existence soulève des questions sur le destin et le sacrifice, alors que certains cherchent à comprendre ou à rivaliser avec leur pouvoir.
+
+La région de Targon, avec ses paysages spectaculaires et ses mystères cosmiques, incarne l'idée que l'univers est vaste et rempli d'énigmes. Les étoiles, les constellations et les forces cosmiques sont toutes enchevêtrées dans la vie des habitants de Targon, qui continuent de chercher des réponses aux questions fondamentales de l'existence et du destin à travers leurs croyances et leurs pratiques.
+
+
+Ixtal : Ixtal est une région mystérieuse et isolée de Runeterra, connue pour sa magie élémentaire et ses traditions anciennes. Située au sud de Targon, Ixtal est composée de jungles luxuriantes, de volcans actifs et de paysages enchanteurs, offrant un terrain fertile pour l'apprentissage et la maîtrise de la magie. Les habitants d'Ixtal sont des magiciens puissants, divisés en différentes écoles de pensée, chacune se spécialisant dans un élément spécifique, que ce soit le feu, l'eau, la terre ou l'air.
+
+La culture d'Ixtal est fortement axée sur la connaissance et la sagesse, les Ixtaliens accordant une grande importance à l'apprentissage des arts magiques et à la compréhension des forces naturelles. Les mage-érudits d'Ixtal sont souvent respectés pour leurs compétences et leur sagesse, mais la région est également marquée par une rivalité intense entre les différentes écoles de magie, ce qui peut parfois mener à des conflits.
+
+Zyra, une championne emblématique d'Ixtal, incarne le lien profond entre la magie et la nature, tandis que Malphite représente la puissance de la terre et de la pierre. De plus, la maîtrise des éléments par les Ixtaliens leur permet d'exercer un contrôle sur leur environnement, mais leur fierté et leur désir de pouvoir peuvent également mener à des conséquences désastreuses.
+
+Malgré la beauté et la richesse de ses paysages, Ixtal reste une région peu explorée et souvent méconnue, entourée de mystère. Ses secrets et ses traditions anciennes attendent d'être découverts, et les aventuriers qui osent s'y aventurer peuvent trouver des connaissances oubliées et des dangers insoupçonnés. Ixtal représente ainsi une partie essentielle de l'univers de Runeterra, un lieu où la magie et la nature s'entrelacent dans un équilibre délicat.
+
+
+Iles obscures : Les Iles Obscures, également connues sous le nom de Shadow Isles, sont une région maudite et sinistre de Runeterra, réputée pour sa magie noire et ses horreurs inexprimables. Autrefois une terre prospère, elle a été plongée dans les ténèbres après un cataclysme mystérieux, souvent associé à l'utilisation imprudente de la magie. Ce désastre a donné naissance à une atmosphère lugubre, où les esprits des morts errent, et où la vie est constamment menacée par des forces surnaturelles.
+
+Les Iles Obscures sont dominées par des créatures cauchemardesques, des fantômes et des spectres, qui hantent les ruines des anciennes cités. Les champions emblématiques de cette région, tels que Thresh, le gardien des âmes, et Karthus, le chanteur des lamentations, incarnent les aspects les plus sombres de cette terre maudite. Thresh, en particulier, est connu pour capturer les âmes des malheureux et les enfermer dans sa lanterne, les condamnant à une éternité de tourment.
+
+La magie qui imprègne les Iles Obscures est souvent liée à la mort, à la souffrance et au désespoir, attirant les praticiens de la magie noire et ceux qui cherchent à exploiter les forces obscures. La région est un symbole de la corruption et de la déchéance, où la vie et la mort s'entrelacent dans un cycle ininterrompu.
+
+Malgré leur apparence terrifiante, les Iles Obscures possèdent une beauté tragique, avec des paysages mystérieux et des légendes qui se transmettent de génération en génération. Elles représentent le côté sombre de la magie et les conséquences des ambitions humaines, invitant ceux qui osent s'y aventurer à explorer les secrets et les horreurs qui se cachent dans l'ombre.
+
+
+
+-------Accueil :-------
+Explication du jeu : League of Legends est un jeu vidéo en ligne multijoueur de type arène de bataille en équipe (MOBA), développé par Riot Games. Dans ce jeu, deux équipes de cinq joueurs s'affrontent sur une carte appelée "Summoner's Rift", où chaque joueur contrôle un personnage unique, appelé "champion", ayant des compétences spécifiques. L'objectif principal est de détruire le Nexus adverse, situé au cœur de la base ennemie, tout en protégeant le sien. Les joueurs gagnent de l'or en éliminant des monstres, des champions ennemis et en détruisant des structures, ce qui leur permet d'acheter des objets pour améliorer leur champion. La stratégie, la coordination d'équipe et la maîtrise des champions sont essentielles pour remporter la partie.
+
+-------Plus :-------
+Explications des lanes :
+
+Top Lane : Située en haut de la carte, cette lane est généralement occupée par des champions tanky ou bruisers. Les champions de la top lane se concentrent sur le farming, la survie en duel, et l'accumulation de ressources pour devenir des tanks en fin de partie. Ils peuvent également jouer un rôle clé dans les combats d'équipe, en absorbant les dégâts et en engageant l'ennemi.
+
+
+Jungle : Bien que techniquement pas une lane, la jungle est un espace crucial entre les lanes où le jungler farm et gank (attaquer des lanes). Le jungler joue un rôle vital dans la création d'opportunités pour les autres lanes et dans la sécurité des objectifs.
+
+
+Mid Lane : Cette lane centrale est le terrain de jeu des mages et des assassins. Les champions de la mid lane se spécialisent souvent dans les dégâts à burst et ont un impact significatif sur la carte grâce à leur capacité à roam (se déplacer entre les lanes). Ils jouent un rôle crucial dans la prise de décisions stratégiques et dans l'obtention de kills.
+
+
+Bot Lane : La lane du bas est unique, car elle est généralement partagée par deux joueurs : l'ADC et le support. L'ADC se concentre sur le farming et l'inflation de dégâts à distance, tandis que le support aide à protéger l'ADC, à placer des wards, et à contrôler les objectifs. La coordination entre ces deux rôles est essentielle pour réussir en bot lane.
+
+
+
+Explications des rôles :
+
+Top Lane : Souvent joué par des champions résistants, le joueur de la top lane est chargé de contrôler la voie du haut et de servir de tank pour l'équipe, protégeant ainsi les autres membres pendant les combats d'équipe.
+
+
+Jungle : Le jungler évolue dans la jungle entre les lanes, accumulant de l'expérience et des ressources. Son rôle est de ganker les lanes pour aider ses coéquipiers à obtenir des kills, tout en sécurisant des objectifs comme le Dragon ou le Baron Nashor.
+
+
+Mid Lane : Ce rôle est souvent occupé par des champions à burst, capables d'infliger rapidement de lourds dégâts. Le joueur de la mid lane est essentiel pour contrôler le rythme du jeu et pour faire pression sur les autres lanes.
+
+
+ADC (Attack Damage Carry) : Situé en bot lane avec le support, l'ADC est responsable d'infliger des dégâts à distance en fin de partie. Il doit farmer efficacement pour accumuler des ressources et devenir la principale source de dégâts de l'équipe.
+
+
+Support : Le support accompagne l'ADC en fournissant protection, vision et contrôles de foule. Son rôle est crucial pour maintenir l'ADC en vie et contrôler les objectifs en plaçant des wards.
+

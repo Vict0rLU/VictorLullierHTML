@@ -1,0 +1,201 @@
+/* Pierric Letard m'a aidé pour cette ligne*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* headline : logo + titre (bande noire en haut de l'écran)*/
+.headline{
+    background-color: black;
+    height: 100px;
+    display: flex;
+}
+
+/* le titre : League Collection*/
+.titre{
+    color: rgb(137, 118, 69);
+    width: 90%;
+    height: 100px;
+    align-content: center;
+    text-align: center;
+    background-color: black;
+    margin: 0;
+    font-size: 5vw;
+    margin-right: 110px;
+}
+
+/*Le logo et ses paramètres*/
+.logo{
+    width: 200px;
+    height: 100px;
+    background-color:black;
+}
+
+/*Ce qui se passe lorsque l'on passe sur le logo (cliquer pour revenir à l'accueil) : ca devient rouge*/
+.logo:hover{
+    background-color: red;
+}
+
+/*Ce qui se passe quand on clique sur le logo : pour savoir si on a déjà cliqué ou non dessus : ca passe de rouge à orange*/
+.logo:active{
+    background-color: orange;
+}
+
+/*La taille des images importée*/
+.images{
+    width: 100%;
+    height: 20vw;
+}
+
+/*J'ai divisé le "content" (les 2 cartes) en 2 parties : la carte de gauche et la carte de droite. Rappel : une carte c'est nom + image*/
+.half{
+    align-content: space-between;
+    border: 2px solid white;
+    width: 20vw;
+}
+
+/*Les caractéristiques des cartes (ici en l'occurence ses dimensions et comment elles apparaîssent*/
+.cartes{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+
+/*Comment apparaît le "content" donc comme dit précédemment les 2 cartes : perso + ses origines*/
+.content{
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    margin-top: 100px;
+    gap: 20px;
+    width: 80%;
+    margin-left: 10%;
+}
+
+/*Couleur de la police d'écriture des noms des cartes (perso ou origines ca ne change pas, le nom est le nom)*/
+.nom{
+    color: white;
+}
+
+/*Couleur de fond de l'onglet collection (là ou il y a toutes les cartes)*/
+.background_collection{
+    background-color: rgb(22, 31, 50);
+}
+
+/*Couleur du bouton "Collection"*/
+.collection{
+    background-color:rgb(22, 31, 50);
+}
+
+/*Couleur du bouton "Plus"*/
+.plus{
+    background-color: rgb(22, 31, 50);
+}
+
+/*Couleur de fond de l'onglet d'accueil*/
+.background_accueil{
+    background-image: url(images/LolWallpaper.jpg);
+}
+
+/*Paramètres des boutons sur lesquels on peut cliquer dessus pour naviguer sur le site (ici, les 2 boutons sont "Collection" et "Plus"*/
+.bouton{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-right: 1%;
+    padding-left: 1%;
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    border-color: white;
+    border-style: solid;
+    font-size: 30px;
+    text-align: center;
+    width: 40%;
+    min-width: 150px;
+}
+
+/*Affichage du "content" de la page d'accueil, ici, les 2 boutons*/
+.content_accueil{
+    display:flex;
+    margin: 10%;
+    flex-direction: column;
+    gap: 150px;
+}
+
+/*Ce qui se passe lorsque l'on passe la souris sur les 2 boutons de l'accueil*/
+.bouton:hover{
+    background-color: red;
+}
+
+/*Ce qui se passe lorseque l'on clique sur les 2 boutons de l'accueil*/
+.bouton:active{
+    background-color: orange;
+}
+
+/*Ce qui se passes quand on passe la souris sur la partie gauche ou droite du "content" de la page de collection : le nom n'est pas directement affiché,
+mais celui s'affiche lorsque l'on passe la souris dessus + la carte (nom + image) qui disparaît et qui laisse donc place au texte explicatif*/
+.half:hover{
+    .info_carte{
+        display: flex;
+    }
+    .nom{
+        display:none;
+    }
+    .images{
+        display:none;
+    }
+}
+
+/*Ce qui se passe lorsque l'on clique sur les 2 cartes (les 2 moitiés)*/
+.half:active{
+    background-color: orange;
+}
+
+/*Texte explicatif des cartess et le fait que les textes n'appraîssent pas directement (il faut passer la souris sur les cartes pour le faire apparâitre)*/
+.info_carte{
+    display:none;
+    color: white;
+}
+
+/*Couleur de fond de l'onget "Plus"*/
+.background_plus{
+    background-color: rgb(22, 31, 50);
+}
+
+/*Conteneur des lignes qui elles-mêmes contiennent la lane (l'image) + le texte (l'explication ou la "description")*/
+.content_plus{
+    width: 80%;
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    margin-left: 10%;
+}
+
+/*Conteneur des logos de lanes + leurs explications*/
+.ligne{
+    width: 100%;
+    display:flex;
+    justify-content: space-between;
+    border: white;
+    border-style: solid;
+}
+
+/*Logo des lanes et manière dont elles apparaîssent (le rendu)*/
+.lane{
+    background-color: white;
+    width: 10vw;
+    height: 10vw;
+    align-content:center;
+    text-align: center;
+    display: flex;
+}
+
+/*Les caractéristiques des textes explicatifs des lanes*/
+.description{
+    width: 70%;
+    color: white;
+    font-size: 25px;
+    justify-content: center;
+}

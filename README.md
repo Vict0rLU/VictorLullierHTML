@@ -1,0 +1,1 @@
+Ceci est un site de cartes League of Legends. C'est un projet scolaire produit à l'IIM Digital School de première année (A1). Cliquer le logo permet de revenir à l'accueil pour naviguer à travers le site.
